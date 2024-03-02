@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @Alesguga
+## 👋 Hi, I’m Alex
   My name is Alex and currently im studying DAM, I like programming in Kotlin, HTML5 with CSS and Bs5 and currently learning React Native and SQL
 ## Skills 
 - Java (JPA, Netbeans)
