@@ -1,6 +1,14 @@
-# 👋 Hi, I'm Alex!
+# Hi, I'm Alex! 👋
 
-Welcome to my GitHub profile! I'm a DAM student with a passion for programming, currently exploring various technological fields. Let me walk you through my journey:
+I'm a DAM student with a passion for programming. I'm currently exploring various technological fields and improving my skills in Java, Kotlin, Oracle SQLdev, React Native, and more.
+
+## Table of Contents
+
+- [Skills](#skills)
+- [Featured Projects](#featured-projects)
+- [Current Goals](#current-goals)
+- [Collaboration and Organization](#collaboration-and-organization)
+- [Links](#links)
 
 ## Skills
 
@@ -14,19 +22,20 @@ Welcome to my GitHub profile! I'm a DAM student with a passion for programming, 
 
 ## Featured Projects
 
-- Crafting mobile applications with React Native.
-- Architecting backend systems using Java and Kotlin.
-- Expertise in designing and maintaining databases with Oracle SQLdev.
+- **Crafting mobile applications with React Native**: I have experience in creating mobile applications using React Native.
+- **Architecting backend systems using Java and Kotlin**: I have a strong background in creating backend systems using Java and Kotlin.
+- **Expertise in designing and maintaining databases with Oracle SQLdev**: I have experience in designing and maintaining databases using Oracle SQLdev.
 
 ## Current Goals
 
-I am currently diving deeper into React Native and honing my SQL skills for more robust projects.
+- **Deepen my knowledge of React Native**: I am currently working on improving my skills in React Native to create more robust mobile applications.
+- **Hone my SQL skills**: I am also working on honing my SQL skills to create more efficient and robust database systems.
 
 ## Collaboration and Organization
 
-I thrive on teamwork and organization. I love contributing to projects involving database access and the development of web and mobile applications.
+- **Teamwork and organization**: I thrive on teamwork and organization. I love contributing to projects involving database access and the development of web and mobile applications.
 
-Thanks for stopping by my profile! If you have any questions or suggestions, feel free to reach out.
-## 🔗 Links
+## Links
+
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gutigut.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-guti%C3%A9rrez-4b863b295/)
