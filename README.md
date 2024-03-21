@@ -19,6 +19,8 @@ I'm a DAM student with a passion for programming. I'm currently exploring variou
 | **Oracle SQLdev**           | 🛢️        |
 | **Frontend (React-Native)**  | ⚛️        |
 | **HTML5, CSS, BS-5**         | 🌐        |
+| **Swift**           |       🚀  |
+
 
 ## Featured Projects
 
