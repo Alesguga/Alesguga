@@ -21,6 +21,7 @@ I'm a DAM student with a passion for programming. I'm currently exploring variou
 | **HTML5, CSS, BS-5**         | 🌐        |
 | **Swift**           |       🚀  |
 
+## Estadísticas de GitHub 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alesguga&layout=donut)
 ## Featured Projects
 
