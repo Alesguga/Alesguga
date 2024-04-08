@@ -127,7 +127,7 @@ for project in projects {
 - **Deepen my knowledge of Astro and Python**: I am currently working on improving my skills in Astro and Python.
 - **Working on my SQL skills**: I am also working on my SQL skills to create better databases.
 - **Learning new things on Swift**: Learning SwiftUI, Firebase with Swift...
-- **Learning new framework Astro and AstroDB**:Learning Astro to make static pages better optimiced with TS
+- **Get better JS fundamentals**: Trying to get better at JS fundamentals to use it more eficiently
 
 ## Collaboration and Organization
 
