@@ -1,9 +1,9 @@
 # Hi, I'm Alex! 👋
 ``` Kotlin
 fun main() {
-    val technologies = listOf("Kotlin", "Java", "Oracle SQLdev","HTML (Tailwind,Bs5,CSS,Astro)","Swift","and more")
-    println("I'm a DAM student with a passion for programming.")
-    println("Currently exploring various technological fields and improving my skills in:${technologies.joinToString(", ")}")
+  val technologies = listOf("Kotlin", "Java", "Oracle SQLdev","HTML (Tailwind,Bs5,CSS,Astro)","Swift","and more")
+  println("I'm a DAM student with a passion for programming.")
+  println("Currently exploring various technological fields and improving my skills in:${technologies.joinToString(", ")}")
 }
 ```
 
