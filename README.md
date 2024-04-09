@@ -13,77 +13,29 @@ fun main() {
 - [Featured Projects](#featured-projects)
 - [Current Goals](#current-goals)
 - [Collaboration and Organization](#collaboration-and-organization)
-- [Links](#links)
+- [Links](#links❤️)
+
+
 
 ## Skills
 
-<style>
-		table {
-			border-collapse: collapse;
-			width: 100%;
-      rounded:50;
-		}
-		
-		th, td {
-			border: 1px solid black;
-			padding: 15px;
-			text-align: left;
-		}
-		
-		th {
-			background-color: #f2f2f2;
-		}
-		
-		td:nth-child(even) {
-			background-color: #f2f2f2;
-		}
-		
-		td i {
-			margin-left: 5px;
-		}
-		
-		.emoji {
-			font-size: 20px;
-			vertical-align: middle;
-		}
-	</style>
-</head>
-<body>
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
+[![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
+[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org/)
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Bootstrap 5](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Astro](https://img.shields.io/badge/Astro-0D1117?style=for-the-badge&logo=astro&logoColor=white)](https://astro.build/)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
-<h2>Languages and Tools</h2>
 
-<table style="width:100%">
-  <tr>
-    <th>Languages and Tools</th>
-    <th></th>
-  </tr>
-  <tr>
-    <td>Java (Java Web,JPA,JSTL)</td>
-    <td><p>:coffee:</p></td>
-  </tr>
-  <tr>
-    <td>Kotlin (Firebase, Retrofit, SQlite)</td>
-    <td><p>:bird:</p></td>
-  </tr>
-  <tr>
-    <td>Oracle SQLdev</td>
-    <td><p>:oil_drum:</p></td>
-  </tr>
-  <tr>
-    <td>React-Native</td>
-    <td><p>:atom:</p></td>
-  </tr>
-  <tr>
-    <td>HTML5(CSS,BS5,Tailwind)</td>
-    <td><p>:globe_with_meridians:</p></td>
-  </tr>
-  <tr>
-    <td>Swift(Firebase,Api Access)</td>
-    <td><p>:rocket:</p></td>
-  </tr>
-</table>
 
-</body>
 
 ## Estadísticas de GitHub 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alesguga&layout=donut)
