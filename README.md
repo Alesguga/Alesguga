@@ -48,20 +48,28 @@ struct Project {
 
 let projects = [
     Project(
-        title: "Crafting mobile applications with Kotlin and Swift",
-        description: "I have experience in creating mobile applications in Android Studio and Xcode."
+        title: "Kotlin TFG",
+        description: "This project is a mobile application for a furniture store, developed using Kotlin and Jetpack Compose.
+        The application integrates with Firebase and Retrofit and follows the MVVM (Model-View-ViewModel) architectural pattern."
     ),
     Project(
-        title: "Architecting backend systems using Java, ",
-        description: "I have a good background in creating backend systems using Java,
-        and making Pages with java web that interact with a Real time database"
+        title: "Kotlin Applications",
+        description: "Crafting mobile applications using different type of technologies like sqlite,json,retrofit... and
+        clean architecture (MVVM)."
     ),
     Project(
-        title: "Experience in databases with Oracle SQLdev",
+        title: "Webs using HTML,Java BS5 and SQL",
+        description: "This project is a dynamic web application that interacts directly with SQL databases.
+        It is developed using Java with JPA, JSP, NetBeans, Bootstrap, and JavaScript (AJAX).
+        The application is designed to provide a responsive and interactive user experience
+        for managing data stored in a SQL database."
+    ),
+    Project(
+        title: "Creating databases with Oracle SQLdev",
         description: "I have experience in designing and maintaining databases using Oracle SQLdev."
     ),
     Project(
-        title: "Crafting pages,portfolios with HTML, CSS",
+        title: "Crafting webpages with AstroJS",
         description: "I use frameworks like Tailwind, Bootstrap 5, and currently learning Astro and AstroDB."
     )
 ]
