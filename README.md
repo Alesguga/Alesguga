@@ -1,7 +1,7 @@
 # Hi, I'm Alex! 👋
 ``` Kotlin
 fun main() {
-  val technologies = listOf("Kotlin", "Java", "Oracle SQLdev","HTML (Tailwind,Bs5,CSS,Astro)","Swift","and more")
+  val technologies = listOf("Kotlin", "Java", "Python", "Swift", "and more")
   println("I'm a DAM student with a passion for programming.")
   println("Currently exploring various technological fields and improving my skills in:${technologies.joinToString(", ")}")
 }
@@ -32,9 +32,6 @@ fun main() {
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logoColor=white)](https://www.firebase.com/)
-
-
-
 
 ## Estadísticas de GitHub 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alesguga&layout=donut)
