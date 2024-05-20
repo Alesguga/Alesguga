@@ -1,4 +1,4 @@
-# Hi, I'm Alex! 👋
+## <h1 align="center">Hi, I'm Alex! 👋</h1> 
 ``` Kotlin
 fun main() {
   val technologies = listOf("Kotlin", "Java", "Python", "Swift", "and more")
@@ -6,17 +6,14 @@ fun main() {
   println("Currently exploring various technological fields and improving my skills in:${technologies.joinToString(", ")}")
 }
 ```
-
-## Table of Contents
+## <h2 align="center">Table of contents</h1>  
 
 - [Skills](#skills)
 - [Featured Projects](#featured-projects)
 - [Current Goals](#current-goals)
 - [Collaboration and Organization](#collaboration-and-organization)
 - [Links](#links❤️)
-
-
-## Skills
+## <h2 align="center">Skills</h1>  
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-5C3EE8?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Java](https://img.shields.io/badge/Java-FF5733?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
@@ -32,9 +29,17 @@ fun main() {
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)](https://www.firebase.com/)
 
-## Estadísticas de GitHub 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alesguga&layout=donut)
-## Featured Projects
+## <h2 align="center">GitHub stats</h1>
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{alesguga}/count.svg" alt="alesguga :: Visitor's Count" /></p>
+
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alesguga&langs_count=10&theme=tokyonight&layout=compact" alt="alesguga :: Top Langs" /></p>
+
+## <h2 align="center">Featured projects</h1>  
 
 ```Swift
 struct Project {
@@ -77,16 +82,16 @@ for project in projects {
 
 ```
 
-## Current Goals
+## <h2 align="center">Current goals</h1>  
 
 - **Deepen my knowledge of Python**: I am currently working on improving my skills in Python.
 - **Learning Swift**: Learning SwiftUI, Firebase with Swift, Api calls...
 
-## Collaboration and Organization
+## <h2 align="center">Colaboration and organization</h1>  
 
 - **Teamwork and organization**: I thrive on teamwork and organization. I love contributing to projects involving database access and the development of web and mobile applications.
 
-## Links ❤️
+## <h2 align="center">Links ❤️</h1>  
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gutigut.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-guti%C3%A9rrez-4b863b295/)
