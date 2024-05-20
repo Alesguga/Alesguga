@@ -16,22 +16,21 @@ fun main() {
 - [Links](#links❤️)
 
 
-
 ## Skills
 
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-5C3EE8?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Java](https://img.shields.io/badge/Java-FF5733?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
 [![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
-[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org/)
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org/)
+[![HTML](https://img.shields.io/badge/HTML5-FF6F61?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Bootstrap 5](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Astro](https://img.shields.io/badge/Astro-0D1117?style=for-the-badge&logo=astro&logoColor=white)](https://astro.build/)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
+[![CSS](https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+[![SQL](https://img.shields.io/badge/SQL-FF6347?style=for-the-badge&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-[![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logoColor=white)](https://www.firebase.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)](https://www.firebase.com/)
 
 ## Estadísticas de GitHub 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alesguga&layout=donut)
@@ -80,10 +79,8 @@ for project in projects {
 
 ## Current Goals
 
-- **Deepen my knowledge of Astro and Python**: I am currently working on improving my skills in Astro and Python.
-- **Working on my SQL skills**: I am also working on my SQL skills to create better databases.
-- **Learning new things on Swift**: Learning SwiftUI, Firebase with Swift...
-- **Get better JS fundamentals**: Trying to get better at JS fundamentals to use it more eficiently
+- **Deepen my knowledge of Python**: I am currently working on improving my skills in Python.
+- **Learning Swift**: Learning SwiftUI, Firebase with Swift, Api calls...
 
 ## Collaboration and Organization
 
