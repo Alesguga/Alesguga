@@ -39,6 +39,15 @@ fun main() {
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alesguga&langs_count=10&theme=tokyonight&layout=compact" alt="alesguga :: Top Langs" /></p>
 
+<h4 align="center">What I'm listening?</h4>
+
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=28k19dvh5gcvk5o6yrsej1mz7&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=28k19dvh5gcvk5o6yrsej1mz7&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=18dc5d&bar_color_cover=true" alt="Spotify Now Playing" />
+  </a>
+</p>
+
+
 ## <h2 align="center">Featured projects</h1>  
 
 ```Swift
