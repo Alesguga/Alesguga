@@ -15,6 +15,8 @@ fun main() {
 - [Links](#links❤️)
 ## <h2 align="center">Skills</h1>  
 
+<div align="center">
+  
 [![Kotlin](https://img.shields.io/badge/Kotlin-5C3EE8?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Java](https://img.shields.io/badge/Java-FF5733?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
 [![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
@@ -28,6 +30,9 @@ fun main() {
 [![SQL](https://img.shields.io/badge/SQL-FF6347?style=for-the-badge&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)](https://www.firebase.com/)
+  
+</div>
+
 
 ## <h2 align="center">GitHub stats</h1>
 
